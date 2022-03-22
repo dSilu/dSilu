@@ -1,4 +1,4 @@
-# Hi, I am Ashrulochan Sahoo :wave:
+<H1 align='left'>Hi, I am Ashrulochan Sahoo :wave:</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -6,10 +6,11 @@
 <a href="https://www.linkedin.com/in/ashrulochan-sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ashrulochan_sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-- I’m <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ashrulochan-sahoo-5bb890159" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ashrulochan-sahoo-5bb890159?trk=profile-badge">Ashrulochan Sahoo</a></div>           
-- 🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry
-- 👀 Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation
-- 🌱 Currently learning Data Science and AI  
+    
+
+<p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry.</p>
+<p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
+<p align='left'>🌱 Currently learning Data Science and AI.</p>  
 
 
 
