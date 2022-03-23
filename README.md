@@ -1,4 +1,11 @@
-<H1 align='left'>Hi, I am Ashrulochan Sahoo :wave:</h1>
+![alt text](https://github.com/dSilu/dSilu/blob/main/header.png)
+
+<H1 align='left'>Hi, I am Ashrulochan Sahoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+
+
+<p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry.</p>
+<p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
+<p align='left'>🌱 Currently learning Data Science and AI.</p>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -6,12 +13,6 @@
 <a href="https://www.linkedin.com/in/ashrulochan-sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ashrulochan_sahoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-    
-
-<p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry.</p>
-<p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
-<p align='left'>🌱 Currently learning Data Science and AI.</p>  
-
 
 
 ## Languages and Tools 
@@ -19,8 +20,12 @@
 
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## GitHub Stats
-[![Ashrulochan](https://github-readme-stats.vercel.app/api?username=dSilu&hide=stars,contribs&show_icons=true&theme=moltack)](https://github.com/dSilu/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dSilu&hide=javascript,ruby,shell&layout=compact&theme=flag-india)](https://github.com/dSilu/github-readme-stats)
+[![Ashrulochan](https://github-readme-stats.vercel.app/api?username=dSilu&hide=stars,contribs&show_icons=true&theme=moltack)](https://github.com/dSilu/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=dSilu&color=blueviolet&style=plastic)
