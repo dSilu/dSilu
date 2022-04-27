@@ -24,7 +24,7 @@
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
-[![Ashrulochan](https://github-readme-stats.vercel.app/api?username=dSilu&hide=stars,contribs&show_icons=true&theme=moltack)](https://github.com/dSilu/github-readme-stats)
+[![Ashrulochan](https://github-readme-stats.vercel.app/api?username=dSilu,contribs&show_icons=true&theme=moltack)](https://github.com/dSilu/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=dSilu&color=blueviolet&style=plastic)
