@@ -20,14 +20,11 @@
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## GitHub Stats
 [![Ashrulochan](https://github-readme-stats.vercel.app/api?username=dSilu&hide=stars,contribs&show_icons=true&theme=moltack)](https://github.com/dSilu/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=dSilu&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=dSilu&color=blueviolet&style=plastic) [![wakatime](https://wakatime.com/badge/user/9ee597fc-d7a9-432d-846e-103c088196b8.svg)](https://wakatime.com/@9ee597fc-d7a9-432d-846e-103c088196b8)
 
 <!---
 dSilu/dSilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
