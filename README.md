@@ -2,14 +2,13 @@
 
 <H1 align='left'>Hi, I am Ashrulochan Sahoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
+<a href="https://www.credential.net/5f239ba1-1af6-4231-9407-2f25d721061d#gs.4wm5rr"><img src="https://github.com/dSilu/dSilu/blob/main/spark-badge.png" height="160" width="140"/></a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94115638"><img src="https://github.com/dSilu/dSilu/blob/main/4011cf6e-66e6-4480-9172-7255b950db27.png" width=140 height=160></a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94566321"><img src="https://github.com/dSilu/dSilu/blob/main/654b60da-8afa-4aa4-9faf-a23e759abb4b.png" width=140 height=160></a> <a href="https://www.credential.net/4ed8caf8-6ae5-4ac0-8ce5-d06c033b263a#gs.4wmk4r"><img src="https://github.com/dSilu/dSilu/blob/main/8fa722a3-e488-41ad-9e33-fe41d311771f.png" width=140 height=160 /></a>
+
+
 <p align='left'>⚙️ Cloud Data Engineer, Databricks certified Spark developer.</p>
 <p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry.</p>
 <p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
 <p align='left'>🌱 Currently learning Data Science and AI.</p>  
-
-## Badges
-<a href="https://www.credential.net/5f239ba1-1af6-4231-9407-2f25d721061d#gs.4wm5rr"><img src="https://github.com/dSilu/dSilu/blob/main/spark-badge.png" height="150" width="140"/></a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
