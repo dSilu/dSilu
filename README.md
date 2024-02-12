@@ -7,6 +7,10 @@
 <p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
 <p align='left'>🌱 Currently learning Data Science and AI.</p>  
 
+## Badges
+<a href="https://www.credential.net/5f239ba1-1af6-4231-9407-2f25d721061d#gs.4wm5rr"><img src="https://github.com/dSilu/dSilu/blob/main/spark-badge.png" height="150" width="140"/></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/overfittedguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
