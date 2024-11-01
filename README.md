@@ -10,8 +10,8 @@
 <p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry</p>
 <p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation</p>
 <p align='left'>🌱 Advancing career in Data Engineering and Cybersecurity.</p>  
-
-<a href="https://www.credential.net/profile/ashrulochansahoo627751/wallet?_gl=1*sud9ub*_gcl_au*MTY4Mjc3MDUwLjE3MzA0NjA2MDA.*_ga*MjE0MDc4MDQxNy4xNzMwMjE1OTAw*_ga_FSDJZHHBH0*MTczMDQ5MTgyOC4yLjEuMTczMDQ5MjkyNS42LjAuODQwNTc4MDk."/>Accredible Profile</a>
+<p><a href="https://www.credential.net/profile/ashrulochansahoo627751/wallet?_gl=1*sud9ub*_gcl_au*MTY4Mjc3MDUwLjE3MzA0NjA2MDA.*_ga*MjE0MDc4MDQxNy4xNzMwMjE1OTAw*_ga_FSDJZHHBH0*MTczMDQ5MTgyOC4yLjEuMTczMDQ5MjkyNS42LjAuODQwNTc4MDk."/>📌 
+ Accredible Profile</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
