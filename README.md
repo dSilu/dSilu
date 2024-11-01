@@ -5,10 +5,11 @@
 <a href="https://www.credential.net/5f239ba1-1af6-4231-9407-2f25d721061d#gs.4wm5rr"><img src="https://github.com/dSilu/dSilu/blob/main/spark-badge.png" height="160" width="160"/></a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94115638"><img src="https://github.com/dSilu/dSilu/blob/main/4011cf6e-66e6-4480-9172-7255b950db27.png" width=150 height=160></a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/94566321"><img src="https://github.com/dSilu/dSilu/blob/main/654b60da-8afa-4aa4-9faf-a23e759abb4b.png" width=150 height=160></a> <a href="https://www.credential.net/4ed8caf8-6ae5-4ac0-8ce5-d06c033b263a#gs.4wmk4r"><img src="https://github.com/dSilu/dSilu/blob/main/8fa722a3-e488-41ad-9e33-fe41d311771f.png" width=150 height=150 /></a>
 
 
-<p align='left'>⚙️ Cloud Data Engineer, Databricks certified Spark developer.</p>
-<p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry.</p>
-<p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation.</p>
-<p align='left'>🌱 Currently learning Data Science and AI.</p>  
+<p align='left'>⚙️ Cloud Data Engineer </p>
+<p align='left'>🎖️ Snowflake Snowpro Core Certified; Databricks certified Spark developer</p>
+<p align='left'>🎓 Post-graduate in Chemical Sciences specialization with Medicinal Chemistry</p>
+<p align='left'>:eyes: Interested in data driven Modern Drug Discovery and use of Artificial Intelligence to accelerate digitalization and automation</p>
+<p align='left'>🌱 Advancing career in Data Engineering and Cybersecurity.</p>  
 
 <a href="https://www.credential.net/profile/ashrulochansahoo627751/wallet?_gl=1*sud9ub*_gcl_au*MTY4Mjc3MDUwLjE3MzA0NjA2MDA.*_ga*MjE0MDc4MDQxNy4xNzMwMjE1OTAw*_ga_FSDJZHHBH0*MTczMDQ5MTgyOC4yLjEuMTczMDQ5MjkyNS42LjAuODQwNTc4MDk."/>Accredible Profile</a>
 
